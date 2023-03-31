@@ -1,7 +1,7 @@
 # projeto-urna
 
 ## Project setup
-```
+
 > Status: Andamento
 
 ## Sobre o projeto
